@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Balavigneshcse/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Balavigneshcse/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Balavigneshcse/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0303-range-sum-query-immutable](https://github.com/Balavigneshcse/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Balavigneshcse/Leetcode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Balavigneshcse/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Balavigneshcse/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
